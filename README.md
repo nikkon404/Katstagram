@@ -8,15 +8,20 @@ Instagram UI clone for cats. Made with Flutter.
 git clone https://github.com/nikkon404/Katstagram.git
 ```
 ### Preview
-![](https://i.postimg.cc/ZYLQWNMz/gif1.gif)
-![](https://i.postimg.cc/MZ0C1NX4/gif2.gif)
+![](screenshots/gif1.gif)
+![](screenshots/gif2.gif)
 
 
 ## Screenshots
-![](https://i.postimg.cc/FzXTYrjR/103671422-599250647383701-8690844579889599478-n.png)
-![](https://i.postimg.cc/pdyG71W2/103093076-184927069571365-1549015490915272678-n.png)
-![](https://i.postimg.cc/fbF2hjyY/103411456-697344237730429-2958315048361886396-n.png)
-![](https://i.postimg.cc/wvmWxyRZ/103962047-909793639492701-5143493794582504194-n.png)
+
+<img src="screenshots/ss1.png "  width="300" >
+<img src="screenshots/ss2.png "  width="300" >
+<img src="screenshots/ss3.png "  width="300" >
+<img src="screenshots/ss4.png "  width="300" >
+
+
+
+
 
 Plugins used:
 - [Pull to Refresh](https://pub.dev/packages/pull_to_refresh)
